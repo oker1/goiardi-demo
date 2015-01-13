@@ -1,0 +1,11 @@
+{
+  "name": "goiardidemo",
+  "chef_environment": "_default",
+  "run_list": [
+  "recipe[tmux]"
+]
+,
+  "normal": {
+
+  }
+}

@@ -1,5 +1,4 @@
 .vagrant
-/cookbooks
 
 # Bundler
 bin/*
@@ -7,3 +6,5 @@ bin/*
 
 .kitchen/
 .kitchen.local.yml
+
+/goiardi
